@@ -2,9 +2,13 @@ function babylonjs_call - add register function; load only when needed.
 Check all additional files; descriptions; use Array for script dependency.
 
 function diwp_metabox_mutiple_fields()
+
 Rename
+
 BabylonJS PlayGround in Wordpress
+
 Add product type support
+
 Admin canvas will be added later
 
 RENAME:
@@ -18,13 +22,11 @@ _diwp_imageauthor
 _diwp_linkauthor
 
 CSS
+
 #diwp-metabox-multiple-fields 
 
-input,textarea{width:100%;display:block}
-            canvas {
-                outline: none; outline-width: 0px;
-            }
-.pglogo {width: 50px;height: 50px;}
+
+input,textarea
 
 
 Style Select Fields with JS
